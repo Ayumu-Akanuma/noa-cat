@@ -1,4 +1,9 @@
+HEAD
 めちゃ時間かかってるorz
-どうして？
-スペースを忘れずTry&error
-burnh切り替え
+どうして?
+Copilotと仲良く勉強！
+git addうまくいかない
+git add git commit 難しい
+retry
+git push ブランチ間違えた
+master
