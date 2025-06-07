@@ -1,4 +1,3 @@
-HEAD
 めちゃ時間かかってるorz
 どうして?
 Copilotと仲良く勉強！
@@ -6,4 +5,3 @@ git addうまくいかない
 git add git commit 難しい
 retry
 git push ブランチ間違えた
-master
